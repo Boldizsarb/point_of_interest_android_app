@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addpoi" android:title="@string/addpoi"/>
+    <item android:id="@+id/save" android:title="@string/save"/>
+    <item android:id="@+id/pref" android:title="@string/pref"/>
+    <item android:id="@+id/allpoi" android:title="@string/allpoi"/>
+    <item android:id="@+id/webpoi" android:title="@string/webpoi"/>
+</menu>

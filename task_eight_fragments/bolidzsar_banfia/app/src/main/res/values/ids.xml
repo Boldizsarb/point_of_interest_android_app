@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="poi_name" type="id"></item>
+    <item name="poi_type" type="id"></item>
+    <item name="poi_description" type="id"></item>
+</resources>
