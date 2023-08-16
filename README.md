@@ -3,7 +3,8 @@
 # Task 8 is in task 8 folder
 
 # Point of interest Android Application 
-
+![Alt Text](/static_assets/app.jpeg)
+![Alt Text](/static_assets/mobile4.jpg)
 ## a)	How you have used XML layout files in your application
 XML layout files are used in Android app development to define the layout and UI components for an app's activities or views. An XML layout file specifies the structure and appearance of the UI components, such as buttons, text views, and images, as well as how they are arranged on the screen.
 Within on create in each activity, the xml file with the layout is initialized   . 
